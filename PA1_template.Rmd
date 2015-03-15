@@ -1,10 +1,4 @@
----
-title: "Reproducible Research: Peer Assessment 1 by Soumya Ghosh"
-output: 
-  html_document:
-    keep_md: true
----
-
+# Reproducible Research: Peer Assessment 1 by Soumya Ghosh
 
 ## Loading and preprocessing the data
 1. Load the activity data and preprocess and load some R libraries
